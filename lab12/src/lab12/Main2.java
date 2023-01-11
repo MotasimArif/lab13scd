@@ -1,4 +1,4 @@
-package lab12;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 public class Main2 {
